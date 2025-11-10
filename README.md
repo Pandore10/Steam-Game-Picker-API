@@ -17,9 +17,9 @@ GET /jogo-aleatorio?steamid=76561197960435530
 
 ### Como rodar
 
-git clone https://github.com/Pandore10/Steam-Game-Picker-API
-cd Steam-Game-Picker-API
-npm install
-cp .env.example .env
-# Edite o .env com a sua chave
-node index.js
+git clone https://github.com/Pandore10/Steam-Game-Picker-API<br>
+cd Steam-Game-Picker-API<br>
+npm install<br>
+cp .env.example .env<br>
+# Edite o .env com a sua chave<br>
+node index.js<br>
