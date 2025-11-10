@@ -13,6 +13,7 @@ GET /jogo-aleatorio?steamid=76561197960435530
     "name": "Counter-Strike 2",
     "playtime": 1250
 }
+```
 
 ### Como rodar
 
