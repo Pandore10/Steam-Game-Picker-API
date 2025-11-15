@@ -2,9 +2,16 @@
 
 Uma API simples que recebe uma **SteamID64** e retorna um **jogo aleatório** da biblioteca do usuário.
 
+---
+
+## Veja o Frontend [aqui](https://github.com/Pandore10/Steam-Game-Picker)
+
+---
 ## Endpoint
 
 GET /jogo-aleatorio?steamid=76561197960435530
+
+---
 
 ### Resposta
 ```json
